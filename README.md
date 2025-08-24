@@ -1,4 +1,4 @@
-# env\_file, `.env` и `environment` в Docker Compose — полный разбор
+# `.env`: `env_file` и `environment` в Docker Compose — полный разбор
 
 ---
 
